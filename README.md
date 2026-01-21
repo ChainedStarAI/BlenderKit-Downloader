@@ -6,7 +6,7 @@ UI is located in Sidebar (toggle by **N** key), in **[BK Downloader]** tab :
 
 **Output path** – folder where the downloaded ".blend" files will be saved
 
-**API Key** – downloading assets released under Full plan requires a [paid subscription](https://www.blenderkit.com/plans/pricing/).
+**API Key** – downloading assets released under `Full` plan requires a [paid subscription](https://www.blenderkit.com/plans/pricing/).
 
 **Delay** – delay in seconds before starting download of new asset after the previous one has finished downloading (additional random 1–5 seconds will be added to it for each asset).
 
