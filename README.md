@@ -15,7 +15,7 @@ UI is located in Sidebar (toggle by **N** key), in **[BK Downloader]** tab :
 <details>
 <summary><strong>SPOILER: Where can I get API Key?</strong></summary>
 After payment go to the <a href="https://www.blenderkit.com/profile/addon/">ADD-ON tab</a> of your profile (Upper right corner of website -> Your round avatar -> ADD-ON) and press <strong>Show API Key</strong>. Paste this into add-on "API Key" field and you will be able to download <code>Full</code> plan assets as well. For security reasons, the add-on does not store the entered value in memory – you need to specify it for each session.
-<br><br>
+<br>
 Don't share your API Key with anyone, otherwise you may get banned. If you suspect that your API Key has leaked, click <strong>[Reset]</strong> in the ADD-ON tab on website to create a new version and delete the old one.
 </details>
 
@@ -26,8 +26,9 @@ Assets downloading are performed via their <a href="https://www.blenderkit.com/a
 
 <details>
 <summary><strong>SPOILER: How to install?</strong></summary>
+<br>
 Just like any other add-on for Blender:
-<br><br>
+<br>
 1) Upper left corner of Blender<br>
 2) Edit<br>
 3) Preferences...<br>
@@ -35,7 +36,7 @@ Just like any other add-on for Blender:
 5) [↓]<br>
 6) Install from disk...<br>
 7) Select the downloaded .ZIP file.
-<br><br>
+<br>
 The add-on is activated automatically.
 </details>
 <br>
