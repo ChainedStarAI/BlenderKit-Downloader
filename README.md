@@ -40,4 +40,5 @@ Just like any other add-on for Blender:
 The add-on is activated automatically.
 </details>
 <br>
+
 Tested in [Blender 4.2.6 LTS](https://www.blender.org/download/lts/4-2/). If you have any suggestions for improving the add-on or bug reports, please write in this thread.
