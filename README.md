@@ -3,14 +3,18 @@ This Blender add-on is designed for bulk downloading of assets (Free and Full) f
 UI is located in Sidebar (toggle by N key), in [BK Downloader] tab :
 
 Links file – text file containing list of links (one per line) to each desired resource
+
 Output path – folder where the downloaded ".blend" files will be saved
+
 API Key – downloading assets released under Full plan requires a paid subscription.
+
 Delay – delay in seconds before starting download of new asset after the previous one has finished downloading (additional random 1–5 seconds will be added to it for each asset).
+
 Console – displays a list of assets to download, their order numbers, names, and current downloading status. When finished, you'll see a report on successful/failed downloads.
 
+
+
 Tested in Blender 4.2.6 LTS. If you have any suggestions for improving the add-on or bug reports, please write in this thread.
-
-
 
 
 
